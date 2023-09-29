@@ -15,6 +15,8 @@ Qt 是一个跨平台的 C++ 框架，是c++主流框架之一；
 + 必选组件（其余组件看自己需求）
   * MinGW   Windows 平台上使用的 GNU 工具集导入库的集合。
   * Sources   Qt 的源程序。
+  * ![image](https://github.com/caicai13648709751/qtstudy/assets/97296201/11b197b3-13b0-4beb-8fa6-948efd145346)
+
 + 一直下一步，等待安装完成。
 
  
