@@ -4,8 +4,8 @@
 ## 认识Qt
 Qt 是一个跨平台的 C++ 框架，是c++主流框架之一；
 ## 下载qt
-+ 在浏览器进入https://login.qt.io/register注册账号
-+ 在https://download.qt.io/official_releases/online_installers/下载qt online installer
++ 在浏览器进入https://login.qt.io/register/  注册账号
++ 在https://download.qt.io/official_releases/online_installers/  下载qt online installer
 + 在下载目录下运行cmd
 + 输入命令  ./qt-[qt online installer的文件名] --mirror https://mirror.nju.edu.cn/qt
 + 打开qt online installer登录账号
